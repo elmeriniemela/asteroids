@@ -1,0 +1,7 @@
+asteroids\Asteroid.class
+asteroids\Player.class
+asteroids\PolygonFactory.class
+asteroids\AsteroidsGame$1.class
+asteroids\Missle.class
+asteroids\AsteroidsGame.class
+asteroids\SpaceObject.class
